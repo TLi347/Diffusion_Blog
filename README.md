@@ -1,1 +1,1 @@
-# Diffusion_Blog
+# Diffusion Models
